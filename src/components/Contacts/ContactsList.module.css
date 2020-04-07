@@ -1,0 +1,10 @@
+.button {
+  color: rgb(216, 59, 20);
+  margin-left: 40px;
+  font-size: medium;
+}
+.item {
+  font-size: large;
+  list-style: none;
+  padding: 0;
+}

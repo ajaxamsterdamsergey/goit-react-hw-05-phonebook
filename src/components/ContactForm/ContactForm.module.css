@@ -1,0 +1,20 @@
+.form {
+  padding: 10px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 100px;
+  background-color: rgb(236, 241, 240);
+}
+.button {
+  width: 100px;
+  margin-left: 85px;
+  margin-top: 20px;
+}
+.inputNumber {
+  margin-top: 16px;
+}
+.inputName {
+  margin-left: 12px;
+}

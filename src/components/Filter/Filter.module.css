@@ -1,0 +1,8 @@
+.label {
+  font-size: larger;
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  width: 178px;
+}

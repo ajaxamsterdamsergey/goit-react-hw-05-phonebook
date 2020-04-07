@@ -1,0 +1,16 @@
+.alert {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 100px;
+  top: 20px;
+  right: 20px;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  background-color: rgb(173, 33, 33);
+  border-radius: 2px;
+}
